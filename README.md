@@ -12,8 +12,9 @@
 
 [awsgeek.com](https://www.awsgeek.com/)
 
-
-
 ### AWS Well-Architected
 
 [AWS Well-Architected ayuda a los arquitectos de la nube a crear una infraestructura para aplicaciones y cargas de trabajo segura, de alto rendimiento, resistente y eficiente.](https://aws.amazon.com/es/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
+### Preguntas de ejemplo by AWS
+[Descargue la guía del examen (SAA-C02)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
