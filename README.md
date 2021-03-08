@@ -18,3 +18,7 @@
 
 ### Preguntas de ejemplo by AWS
 [Descargue la guía del examen (SAA-C02)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+
+
+### AWS Whitepapers
+[Documentos técnicos y guías de AWS](https://aws.amazon.com/es/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
