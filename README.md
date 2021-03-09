@@ -22,3 +22,7 @@
 
 ### AWS Whitepapers
 [Documentos técnicos y guías de AWS](https://aws.amazon.com/es/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
+
+
+### AWS Console
+[Consola de administración de AWS](https://aws.amazon.com/es/console/)
