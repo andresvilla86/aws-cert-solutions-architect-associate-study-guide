@@ -27,4 +27,4 @@
 ### AWS Console
 [Consola de administración de AWS](https://aws.amazon.com/es/console/)
 
-To be updated.
+To be updated. Soon.
