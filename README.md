@@ -27,4 +27,9 @@
 ### AWS Console
 [Consola de administración de AWS](https://aws.amazon.com/es/console/)
 
+### Mapas Mentales para el SAA
+[Mapa mental AWS en mindmeister.com](https://www.mindmeister.com/es/1179061789/aws-certified-solutions-architect-associate)
+
 To be updated. Soon.
+
+
