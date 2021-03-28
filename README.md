@@ -30,6 +30,6 @@
 ### Mapas Mentales para el SAA
 [Mapa mental AWS en mindmeister.com](https://www.mindmeister.com/es/1179061789/aws-certified-solutions-architect-associate)
 
-To be updated. Soon.
+To be updated very soon.
 
 
