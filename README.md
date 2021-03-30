@@ -32,4 +32,6 @@
 
 To be updated very soon.
 
+Guide being revised.
+
 
