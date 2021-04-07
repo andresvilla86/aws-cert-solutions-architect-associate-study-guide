@@ -30,6 +30,9 @@
 ### Mapas Mentales para el SAA
 [Mapa mental AWS en mindmeister.com](https://www.mindmeister.com/es/1179061789/aws-certified-solutions-architect-associate)
 
+###Alojar un sitio web estático
+[Alojar un sitio web sencillo de marketing o una aplicación web en AWS](https://aws.amazon.com/es/getting-started/hands-on/host-static-website/)
+
 To be updated very soon.
 
 Guide being revised.
