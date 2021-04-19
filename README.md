@@ -39,6 +39,11 @@
 [FAQs Español](https://aws.amazon.com/es/faqs/?nc1=h_ls)
 
 
+### AWS Quick Starts
+En los Quick Starts encontraras implementaciones de referencia creadas por arquitectos de Amazon Web Services (AWS) y partners. Es una base de prácticas recomendadas de AWS destinadas a lograr seguridad y alta disponibilidad.
+[AWS Quick Starts](https://aws.amazon.com/quickstart/?nc1=h_ls&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.filter-tech-category=*all&awsf.filter-industry=*all&awsf.filter-source-category=*all&awsf.filter-content-type=*all)
+
+
 To be updated very soon.
 
 Guide being revised.
