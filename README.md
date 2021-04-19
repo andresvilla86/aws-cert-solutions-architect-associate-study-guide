@@ -33,8 +33,10 @@
 ### Alojar un sitio web estatico
 [Alojar un sitio web sencillo de marketing o una aplicación web en AWS](https://aws.amazon.com/es/getting-started/hands-on/host-static-website/)
 
-### AWS FAQs
-[Muchas Preguntas son obtenidas de los FAQs (Frequiently Asked Questions de Amazon Web Services)](https://aws.amazon.com/faqs/?nc1=h_ls)
+### AWS FAQs: Muchas Preguntas son obtenidas de los FAQs (Frequiently Asked Questions de Amazon Web Services)
+[FAQs Ingles](https://aws.amazon.com/faqs/?nc1=h_ls)
+[FAQs Español](https://aws.amazon.com/es/faqs/?nc1=h_ls)
+
 
 To be updated very soon.
 
