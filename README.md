@@ -33,17 +33,8 @@
 ### Alojar un sitio web estatico
 [Alojar un sitio web sencillo de marketing o una aplicación web en AWS](https://aws.amazon.com/es/getting-started/hands-on/host-static-website/)
 
-Refine operation procedures frequently
-§ Always look for ways to improve existing
-procedures
-§ Anticipate failure
-§ Perform testing to identify single point of
-failure so they can be removed or
-mitigated
-§ Test failure scenarios and response
-procedures
-§ Learn from operational failures through
-lessons learned
+### AWS FAQs
+[Muchas Preguntas son obtenidas de los FAQs (Frequiently Asked Questions de Amazon Web Services)](https://aws.amazon.com/faqs/?nc1=h_ls)
 
 To be updated very soon.
 
