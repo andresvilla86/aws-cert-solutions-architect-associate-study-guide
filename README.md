@@ -42,8 +42,10 @@
 
 [AWS Quick Starts](https://aws.amazon.com/quickstart/?nc1=h_ls&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.filter-tech-category=*all&awsf.filter-industry=*all&awsf.filter-source-category=*all&awsf.filter-content-type=*all)
 
+### Get Hands-on Practice with AWS
 
-
+[Intro to AWS labs](https://aws.amazon.com/training/intro-to-aws-labs/)
+[amazon.qwiklabs.com](https://amazon.qwiklabs.com/)
 
 To be updated very soon.
 
