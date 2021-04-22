@@ -45,6 +45,7 @@
 ### Get Hands-on Practice with AWS
 
 [Intro to AWS labs](https://aws.amazon.com/training/intro-to-aws-labs/)
+
 [amazon.qwiklabs.com](https://amazon.qwiklabs.com/)
 
 To be updated very soon.
