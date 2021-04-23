@@ -50,6 +50,6 @@
 
 To be updated very soon.
 
-Guide being revised.
+Guide being hold.
 
 
