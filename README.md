@@ -51,7 +51,7 @@
 ### AWS Well-Architected Tool
 [AWS Well-Architected Tool](https://us-west-2.console.aws.amazon.com/wellarchitected/home?region=us-west-2#/welcome)
 
-![GitHub Logo](/images/logo.png)
+![AWS Well Architected Framework](waf-en-español.jpg)
 
 To be updated very soon.
 
