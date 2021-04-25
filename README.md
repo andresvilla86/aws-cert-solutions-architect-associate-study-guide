@@ -48,6 +48,9 @@
 
 [amazon.qwiklabs.com](https://amazon.qwiklabs.com/)
 
+### AWS Well-Architected Tool
+[AWS Well-Architected Tool](https://us-west-2.console.aws.amazon.com/wellarchitected/home?region=us-west-2#/welcome)
+
 To be updated very soon.
 
 Guide being hold.
