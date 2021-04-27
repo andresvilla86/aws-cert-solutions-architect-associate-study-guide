@@ -2,7 +2,7 @@
 
 ### Mapa de Certificaciones de AWS
 
-![certs](aws-certs-map.png)
+![certs](aws-certs-map2.png)
 
 ### Recursos oficiales de AWS
 
