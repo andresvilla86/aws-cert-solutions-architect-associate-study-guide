@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect Associate (Study Guide)
 
-### Mapa de Certificaciones de AWS
+### Mapa de Certificaciones de AWS (2020)
 
 ![certs](aws-certs-map2.png)
 
