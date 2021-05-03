@@ -59,6 +59,6 @@
 
 To be updated very soon.
 
-Guide being hold.
+Guide being hold to June.
 
 
