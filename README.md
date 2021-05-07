@@ -59,6 +59,6 @@
 
 To be updated very soon.
 
-Guide being hold to June.
+Guide being hold to June 2021
 
 
