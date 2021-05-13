@@ -59,7 +59,7 @@
 
 ### AWS Cheat Sheet
 
-![AWS Cheat Sheet](aws-cheat-sheet.jpg)
+![AWS Cheat Sheet](aws-cheat-sheet-nire510.jpg)
 
 To be updated very soon.
 
