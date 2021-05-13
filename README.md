@@ -57,6 +57,10 @@
 
 ![AWS Well Architected Framework](waf-en-español.jpg)
 
+### AWS Cheat Sheet
+
+![AWS Cheat Sheet](aws-cheat-sheet.jpg)
+
 To be updated very soon.
 
 Guide being hold to June 2021
