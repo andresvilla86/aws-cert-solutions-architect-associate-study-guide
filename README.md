@@ -63,6 +63,8 @@
 
 To be updated very soon.
 
-Guide being hold to June 2021...UPDATE
+Guide being hold to June 2021...UPDATE NOW
+
+
 
 
