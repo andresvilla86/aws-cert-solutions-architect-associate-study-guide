@@ -65,6 +65,6 @@ To be updated very soon.
 
 Guide being hold to June 2021...UPDATE NOW
 
-
-
+### AWS Global Infrastructure: Availability Zones, Regions, Edge Locations, Regional Edge Caches from Cloudacademy
+![AWS Global Infrastructure](https://cloudacademy.com/blog/aws-global-infrastructure/)
 
