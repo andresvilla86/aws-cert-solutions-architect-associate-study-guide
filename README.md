@@ -68,5 +68,7 @@ To be updated very soon.
 
 Guide being hold to June 2021...UPDATE NOW
 
+Added comments to the guide 
+
 
 
